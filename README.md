@@ -32,3 +32,10 @@ Powered by **LangChain** and **FAISS**, it provides intelligent document retriev
 6. **Summarize Document:** AI generates a concise summary of the entire document.  
 7. **Ask Questions:** Users can ask specific questions and AI provides accurate answers from the document content.  
 
+---
+
+## Installation
+
+```bash
+pip install langchain langchain-community faiss-cpu pypdf python-docx sentence-transformers transformers torch
+```
